@@ -1,3 +1,0 @@
-# About Algorithm
-
-Start typing here...
